@@ -52,8 +52,10 @@ Groceries Store is a project to help people order grocery online. The main purpo
 
 ## ⚙️ Setup
 
-#### Android Studio
-Android Studio Meerkat or later
+#### Requirements
+- **JDK**: 21 (LTS)
+- **Kotlin**: 2.1.x
+- **Android Studio**: Meerkat or later
 
 #### Supabase
 See [Supabase Wiki](https://github.com/hieuwu/android-groceries-store/wiki) 
