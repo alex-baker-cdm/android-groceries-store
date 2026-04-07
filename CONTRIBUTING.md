@@ -1,7 +1,14 @@
 # How to Contribute
 
 We'd love to accept your patches and contributions to this project. There are
-just a few small guidelines you need to follow. These are the steps:
+just a few small guidelines you need to follow.
+
+## Prerequisites
+- **JDK**: 21 (LTS)
+- **Kotlin**: 2.1.x
+- **Android Studio**: Meerkat or later
+
+## Steps
 
 1. Fork the repository
 2. Make changes
